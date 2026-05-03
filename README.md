@@ -1,5 +1,5 @@
 # CIT119-Final-Project-McCreary
-An encounter builder for D&amp;D 5E
+An encounter builder for D&amp;D 5E. 
 This program allows you to quickly build a balanced encounter for your table using a pre-loaded monster table and official difficulty table.
 
 # Installation
